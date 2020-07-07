@@ -19,7 +19,7 @@ $(document).ready(function() {
 
     //Styling The Div
     $("div").css({ "background-color": "blue" })
-    $(myButton).css ({"text-align": "center"})
+
 
 
 });
